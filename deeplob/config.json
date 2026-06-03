@@ -1,0 +1,12 @@
+{
+    "python_version": "3.12",
+    "batch": 1024,
+    "feature": [
+        "bid1", "bid2", "bid3", "bid4", "bid5",
+        "ask1", "ask2", "ask3", "ask4", "ask5",
+        "bsize1", "bsize2", "bsize3", "bsize4", "bsize5",
+        "asize1", "asize2", "asize3", "asize4", "asize5",
+        "amount_delta"
+    ],
+    "label": ["label_5", "label_10", "label_20", "label_40", "label_60"]
+}
